@@ -1,7 +1,33 @@
-h1, h2, h3, h4, h5, h6 {
+h1, h2, h3 {
     font-family: 'Roboto', sans-serif;
+    margin-left: 20px
 }
 
 p, li {
     font-family: 'Roboto Slab', serif;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.banner {
+    width: 100%;
+}
+
+.image {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+.image2 {
+    position: absolute;
+    bottom: 45px;
+    left: 525px;
+}
+
+.background {
+    position: relative;
+    width: 1340px;
+    height: 500px;
+    background-color: lightgray;
 }

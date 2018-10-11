@@ -23,6 +23,13 @@ a {
     width: 100%;
 }
 
+.background {
+    position: relative;
+    width: 1340px;
+    height: 500px;
+    background-color: lightgray;
+}
+
 .image1 {
     position: absolute;
     bottom: 0px;
@@ -35,9 +42,3 @@ a {
     left: 525px;
 }
 
-.background {
-    position: relative;
-    width: 1340px;
-    height: 500px;
-    background-color: lightgray;
-}
